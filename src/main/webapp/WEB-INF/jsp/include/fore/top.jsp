@@ -8,7 +8,7 @@
 			毅买首页
 		</a>
 
-		<span>喵，欢迎来毅买</span>
+		<span>欢迎来毅买</span>
 
 		<c:if test="${!empty user}">
 			<a href="loginPage">${user.name}</a>
