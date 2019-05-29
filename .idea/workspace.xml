@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="892469e8-4bd6-437f-b25d-e76503637a17" name="Default Changelist" comment="Default Changelist">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="892469e8-4bd6-437f-b25d-e76503637a17" name="Default Changelist" comment="Default Changelist" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/how2java/tmall/controller/ForeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="382" column="19" selection-start-line="382" selection-start-column="19" selection-end-line="382" selection-end-column="19" />
+            <state relative-caret-position="521">
+              <caret line="390" lean-forward="true" selection-start-line="390" selection-end-line="390" />
             </state>
           </provider>
         </entry>
@@ -310,7 +308,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../_123" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -517,12 +515,20 @@
       <workItem from="1558946642111" duration="1240000" />
       <workItem from="1559031169746" duration="1117000" />
       <workItem from="1559109276325" duration="579000" />
-      <workItem from="1559110859438" duration="2106000" />
+      <workItem from="1559110859438" duration="3653000" />
     </task>
+    <task id="LOCAL-00001" summary="Default Changelist">
+      <created>1559115766760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559115766760</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83020000" />
+    <option name="totallyTimeSpent" value="84567000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -543,8 +549,8 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="设计器" order="6" />
-      <window_info id="Web" order="7" sideWeight="0.15584415" side_tool="true" weight="0.21618743" />
-      <window_info content_ui="combo" id="Project" order="8" sideWeight="0.84415585" visible="true" weight="0.18104367" />
+      <window_info id="Web" order="7" sideWeight="0.15746753" side_tool="true" weight="0.18104367" />
+      <window_info content_ui="combo" id="Project" order="8" sideWeight="0.84253246" visible="true" weight="0.18104367" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.43572986" />
@@ -553,10 +559,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49946752" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005325" side_tool="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32897604" />
       <window_info anchor="bottom" id="Application Servers" order="13" weight="0.32897604" />
       <window_info anchor="bottom" id="调试" order="14" />
@@ -642,6 +648,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -943,8 +953,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/how2java/tmall/controller/ForeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="382" column="19" selection-start-line="382" selection-start-column="19" selection-end-line="382" selection-end-column="19" />
+        <state relative-caret-position="521">
+          <caret line="390" lean-forward="true" selection-start-line="390" selection-end-line="390" />
         </state>
       </provider>
     </entry>
